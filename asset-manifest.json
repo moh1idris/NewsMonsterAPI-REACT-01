@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewsMonsterAPI-REACT-01/static/css/main.a4a20492.chunk.css",
+    "main.js": "/NewsMonsterAPI-REACT-01/static/js/main.f971cd99.chunk.js",
+    "main.js.map": "/NewsMonsterAPI-REACT-01/static/js/main.f971cd99.chunk.js.map",
+    "runtime-main.js": "/NewsMonsterAPI-REACT-01/static/js/runtime-main.4917ef7e.js",
+    "runtime-main.js.map": "/NewsMonsterAPI-REACT-01/static/js/runtime-main.4917ef7e.js.map",
+    "static/js/2.9d27e4a2.chunk.js": "/NewsMonsterAPI-REACT-01/static/js/2.9d27e4a2.chunk.js",
+    "static/js/2.9d27e4a2.chunk.js.map": "/NewsMonsterAPI-REACT-01/static/js/2.9d27e4a2.chunk.js.map",
+    "static/js/3.1686862b.chunk.js": "/NewsMonsterAPI-REACT-01/static/js/3.1686862b.chunk.js",
+    "static/js/3.1686862b.chunk.js.map": "/NewsMonsterAPI-REACT-01/static/js/3.1686862b.chunk.js.map",
+    "index.html": "/NewsMonsterAPI-REACT-01/index.html",
+    "static/css/main.a4a20492.chunk.css.map": "/NewsMonsterAPI-REACT-01/static/css/main.a4a20492.chunk.css.map",
+    "static/js/2.9d27e4a2.chunk.js.LICENSE.txt": "/NewsMonsterAPI-REACT-01/static/js/2.9d27e4a2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4917ef7e.js",
+    "static/js/2.9d27e4a2.chunk.js",
+    "static/css/main.a4a20492.chunk.css",
+    "static/js/main.f971cd99.chunk.js"
+  ]
+}
